@@ -47,6 +47,18 @@ module.exports =
                 goTop: 'Ir arriba'
                 htmlLang: 'es-ES'
                 credits: 'Desarrollo por <em>Zeno Rocha</em> ● Diseño por <em>Briza Bueno</em> ● Ilustraciones por <em>Scott Johnson</em>'
+            it:
+                title: 'Como perder peso (no browser)'
+                titleHTML: '<h1>Como perder <span>peso</span></h1><h2>no browser</h2>'
+                slogan: 'O guia definitivo de performance front-end'
+                url: 'http://browserdiet.com/pt'
+                bonus: 'Bônus'
+                images: 'Imagens'
+                server: 'Servidor'
+                edit: 'Editar'
+                goTop: 'Ir para o topo'
+                htmlLang: 'pt-BR'
+                credits: 'Desenvolvido por <em>Zeno Rocha</em> ● Design por <em>Briza Bueno</em> ● Ilustrações por <em>Scott Johnson</em>'
 
         # -----------------------------
         # Site Information
