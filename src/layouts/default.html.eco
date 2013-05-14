@@ -96,11 +96,12 @@
 
    <a title="<%= @getLang().goTop %>" id="top" href="#top-bar" class="animate">
     <img src="<%= @site.assets %>/img/top.png" alt="<%= @getLang().goTop %>" width="64" height="64">
+    <button type="button">To the top</button>
   </a>
 
 
   <!-- SCRIPTS -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
   <script src="<%= @site.assets %>/js/main.js"></script>
   <script type="text/javascript">
     var _gaq = _gaq || [];
